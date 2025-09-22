@@ -20,7 +20,7 @@ BikePrediction-Project/
 
 1.Clone the repository
 
-git clone https://github.com/your-username/BikePrediction-Project.git
+git clone https://github.com/AtifMazhar-01/BikePrediction-Project.git
 cd BikePrediction-Project
 
 2.Create virtual environment (optional but recommended)
