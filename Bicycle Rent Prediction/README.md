@@ -1,12 +1,13 @@
-🚲 Bike Prediction Project
-📌 Overview
+ Bike Prediction Project
+ 
+ Overview
 
 This project predicts daily bike rental counts using machine learning techniques.
 The dataset (day.csv) contains information about bike rentals on different days, along with features such as weather, season, temperature, and more.
 
 The goal of this project is to build and evaluate a predictive model that estimates bike demand.
 
-📂 Project Structure
+Project Structure
 
 BikePrediction-Project/
 │── data/
@@ -16,7 +17,7 @@ BikePrediction-Project/
 │── README.md          # Project documentation
 
 
-⚙️ Installation & Setup
+ Installation & Setup
 
 1.Clone the repository
 
@@ -40,7 +41,7 @@ jupyter notebook BikePrediction.ipynb
 
 
 
-📊 Dataset
+Dataset
 
 The dataset (day.csv) includes:
 
@@ -59,7 +60,7 @@ Windspeed: Wind speed
 Casual / Registered / Count: Bike rental counts
 
 
-🔮 Model & Approach
+Model & Approach
 
 Data preprocessing: Cleaning & feature engineering
 
@@ -70,16 +71,15 @@ Modeling: Regression models (Linear Regression, Random Forest, etc.)
 Evaluation: Metrics such as RMSE and R²
 
 
-📈 Results
+Results
 
 Identified key factors influencing bike rentals.
 
 Built a model that provides a good prediction accuracy.
 
-(You can add screenshots of graphs or output here if you want ✨)
 
 
-🚀 Future Improvements
+Future Improvements
 
 Try deep learning models.
 
@@ -88,7 +88,7 @@ Add more external factors (holidays, special events).
 Deploy model as a web app (Streamlit/Flask).
 
 
-👨‍💻 Author
+ Author
 
 Atif Mazhar
 
